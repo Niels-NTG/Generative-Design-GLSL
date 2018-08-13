@@ -25,8 +25,8 @@ void main() {
     float stepX = u_resolution.x / u_mouse.x;
     float hue = floor(stepX * st.x) / stepX;
 
-    // Calculate hue based on current vertical pixel
-    // and cursor position.
+    // Calculate saturation based on current vertical
+    // pixel and cursor position.
     float stepY = u_resolution.y / u_mouse.y;
     float sat = 1.0 - floor(stepY * st.y) / stepY;
 

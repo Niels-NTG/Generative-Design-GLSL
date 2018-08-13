@@ -1,10 +1,11 @@
 # Generative-Design-GLSL
-A selection of simple shaders programs based on sketches from the (Generative Design)[http://www.generative-gestaltung.de/2/] book.
+A selection of simple shaders programs based on sketches from the [Generative Design](http://www.generative-gestaltung.de/2/) book.
 
 ## Sketches
 - P.1. Color
     - P_1_0_01
     - P_1_1_1_01
+    - P_1_1_2_01
 
 ## See also
 
